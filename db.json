@@ -1,0 +1,32 @@
+{
+  "persons": [
+    {
+      "name": "Tomas",
+      "id": 1693339023614,
+      "email": "tomas@test.com",
+      "postadress": "Skara",
+      "mobil": "02020202"
+    },
+    {
+      "id": 1693343027977,
+      "name": "Per",
+      "email": "per@test.com",
+      "postadress": "Skara",
+      "mobil": "923729"
+    },
+    {
+      "id": 1693344248162,
+      "name": "Lisa",
+      "email": "lisa@test.com",
+      "postadress": "Göteborg",
+      "mobil": "23232390"
+    },
+    {
+      "id": 1693345167037,
+      "name": "Peter",
+      "email": "peter@test.com",
+      "postadress": "Lidköping",
+      "mobil": "0702736"
+    }
+  ]
+}

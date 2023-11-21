@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(171, 197, 228);
+}
+
+h1, h2 {
+  color: rgb(81, 81, 145);
+}
+
+h3 {
+  color: rgb(124, 124, 173);
+}
+
+.person {
+  border: solid 1px gray;
+  border-radius: 5px;
+  margin: 15px;
+  box-shadow: 2px 2px gray;
+  background-color: rgb(212, 228, 242);
+}
+
+.submit, .removeBtn, .updateBtn {
+  margin: 10px;
+  border: solid 0.5px gray;
+  box-shadow: 2px 2px gray;
+}
+
